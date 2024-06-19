@@ -1,6 +1,4 @@
-**Database Name: hotelms**
-
-**Developed by Sanika Pitre**
+**Database Name: hotelms*
 
 **Recommended PHP Version 5.6.3 and 7.4.12**
 
@@ -10,6 +8,6 @@
 username: admin/ admin@gmail.com
 password: admin123
 
-username: Sanika / sanika@gmail.com
+username: Shitija/ shitija@gmail.com
 password: 201452064
 
